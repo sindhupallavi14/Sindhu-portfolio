@@ -21,7 +21,7 @@ export default function Skills() {
           Stuff I’m Good At ...
         </h2>
 
-        <p className="text-gray-300 text-lg md:text-xl max-w-lg">
+        <p className="italic text-gray-300 text-lg md:text-xl max-w-lg">
           I specialize in building full-stack web applications using modern
           technologies. From crafting interactive front-end interfaces to
           designing scalable back-end systems, I leverage my skills to create

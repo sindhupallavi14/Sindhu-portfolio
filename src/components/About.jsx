@@ -25,7 +25,7 @@ export default function About() {
           Meet Sindhu ...
         </h1>
 
-        <div className="space-y-4 text-gray-300 text-base leading-relaxed max-w-lg">
+        <div className="italic space-y-4 text-gray-300 text-base leading-relaxed max-w-lg">
           <p>
             I am Sindhu Pallavi Ramanadula, a B.Tech Graduate of 2025 and a
             passionate Full Stack Developer. I specialize in both frontend and
